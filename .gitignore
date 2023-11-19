@@ -3,3 +3,5 @@ Release/IAE-2953-Countdown.exe
 Release/IAE-2953-Countdown.zip
 .gitattributes
 main.spec
+.idea/workspace.xml
+.idea/vcs.xml
