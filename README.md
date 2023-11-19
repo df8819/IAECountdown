@@ -26,8 +26,13 @@ To run this application, you need Python installed on your system. It uses the b
 Paste into "Add Event(s)" for the 2023 Expo times/dates:
 
 IAE Day 2 – November 18: Aegis Idris P, Jav <t:1700323200:F> // <t:1700352000:F> // <t:1700380800:F>
+
 IAE Day 4 – November 20: Origin 890 Jump <t:1700496000:F> // <t:1700524800:F> // <t:1700553600:F>
+
 IAE Day 5 – November 21: Drake Kraken, Drake Kraken Privateer <t:1700582400:F> // <t:1700611200:F> // <t:1700640000:F>
+
 IAE Day 6 – November 22: Consolidated Outland Pioneer <t:1700668800:F> // <t:1700697600:F> // <t:1700726400:F>
+
 IAE Day 8 – November 24: MISC Hull E <t:1700841600:F> // <t:1700870400:F> // <t:1700899200:F>
+
 IAE Day 9 – November 25: RSI Constellation Phoenix <t:1700928000:F> // <t:1700956800:F> // <t:1700985600:F>
