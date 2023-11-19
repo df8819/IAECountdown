@@ -1,4 +1,4 @@
-IAE Limited Amount Ship Sale Timer For Nervous People (˵ •̀ ᴗ •́ ˵ ) ✧
+**IAE Limited Amount Ship Sale Timer For Nervous People (˵ •̀ ᴗ •́ ˵ ) ✧**
 
 This Python application, built with Tkinter, is designed to help users keep track of limited-amount ship sale events. It displays a countdown to each event and allows users to add, delete, and manage event timers with ease.
 
