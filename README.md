@@ -23,7 +23,7 @@ To run this application, you need Python installed on your system. It uses the b
 
 ![Image](1700357028.png)
 
-Paste into "Add Event(s)" for the 2023 Expo times/dates:
+**Paste into "Add Event(s)" for the 2023 Expo times/dates:**
 
 IAE Day 2 – November 18: Aegis Idris P, Jav <t:1700323200:F> // <t:1700352000:F> // <t:1700380800:F>
 
