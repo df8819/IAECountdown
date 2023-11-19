@@ -2,6 +2,8 @@
 
 This Python application, built with Tkinter, is designed to help users keep track of limited-amount ship sale events. It displays a countdown to each event and allows users to add, delete, and manage event timers with ease.
 
+## Needs ADMIN rights
+
 **Features**
 - Dynamic Event Timers: Countdowns to various ship sale events, updated in real-time.
 - Add Events: Users can add new events through a simple interface.
