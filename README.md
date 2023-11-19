@@ -20,3 +20,5 @@ To run this application, you need Python installed on your system. It uses the b
 4. Deleting Events: Select events using the checkboxes and click "Delete Selected Event(s)" to remove them.
 5. Deleting Event File: To remove all events and delete the saved file, click "Delete .json file".
 6. Exiting the Application: Click "Exit" to close the application.
+
+![Image](1700357028.png)
